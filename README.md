@@ -10,8 +10,15 @@ python -m venv .venv
 Copy-Item config.example.json config.json
 ```
 
-Edit `config.json` and fill the three accounts:
-
+Edit `config.json` and fill in multiple accounts:
+List more accounts in the following format
+```
+{
+  "name": "account1",
+  "steamid": "...",
+  "cookie": "..."
+}
+```
 - `name`: Excel sheet name.
 - `steamid`: SteamID used in the BUFF inventory URL.
 - `cookie`: Copy the BUFF request `Cookie` header from the browser.

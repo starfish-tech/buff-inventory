@@ -1,0 +1,22 @@
+{
+  "game": "csgo",
+  "page_size": 50,
+  "output_dir": "exports",
+  "accounts": [
+    {
+      "name": "account1",
+      "steamid": "76561198359598732",
+      "cookie": "Device-Id=...; Locale-Supported=zh-Hans; game=csgo; session=...; csrf_token=..."
+    },
+    {
+      "name": "account2",
+      "steamid": "PUT_STEAM_ID_HERE",
+      "cookie": "PUT_BUFF_COOKIE_HERE"
+    },
+    {
+      "name": "account3",
+      "steamid": "PUT_STEAM_ID_HERE",
+      "cookie": "PUT_BUFF_COOKIE_HERE"
+    }
+  ]
+}

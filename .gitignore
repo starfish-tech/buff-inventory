@@ -1,0 +1,7 @@
+config.json
+exports/
+logs/
+.venv/
+__pycache__/
+*.pyc
+.idea/

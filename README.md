@@ -34,6 +34,7 @@ Do not commit or share `config.json`. The cookie is equivalent to a login sessio
 5. Click the inventory API request.
 6. Copy `Request Headers -> Cookie`.
 7. Paste it into the matching account in `config.json`.
+<img width="1572" height="730" alt="image" src="https://github.com/user-attachments/assets/799b318b-f71f-45e1-b8ee-4fc3e691d26f" />
 
 The cookie format can include or omit the `Cookie:` prefix.
 
